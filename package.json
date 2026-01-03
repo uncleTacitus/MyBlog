@@ -27,7 +27,7 @@
     "hexo-renderer-marked": "^6.0.0",
     "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^3.0.0",
-    "hexo-theme-landscape": "^1.0.0",
+    "hexo-theme-landscape": "^1.1.0",
     "hexo-theme-next": "^8.17.1",
     "live2d-widget-model-chitose": "^1.0.5",
     "live2d-widget-model-epsilon2_1": "^1.0.5",
