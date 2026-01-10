@@ -1,0 +1,9 @@
+{
+  "orgId": "",
+  "projectId": "",
+  "settings": {
+    "installCommand": "npm install",
+    "buildCommand": "git submodule update --init --recursive && npm run build",
+    "outputDirectory": "public"
+  }
+}
