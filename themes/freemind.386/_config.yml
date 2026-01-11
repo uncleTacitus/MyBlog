@@ -1,52 +1,43 @@
-slogan: "Keep and carry on."
+slogan: "The secret of happiness is to see all the marvels of the world, and never to forget the drops of oil on the spoon."
 
 show_heart: true
 
 show_slogan: true
 
 menu:
-  - title: Archives
+  - title: 文章
     url: archives
     intro: "All the articles."
     # icon: "fa fa-archive"
-  - title: Categories
+  - title: 分類
     url: categories
     intro: "All the categories."
     # icon: "fa fa-folder"
-  - title: Tags
+  - title: タグ
     url: tags
     intro: "All the tags."
     # icon: "fa fa-tags"
-  - title: About
-    url: about
-    intro: "About me."
-    # icon: "fa fa-user"
-  - title: RSS
-    url: atom.xml
-    intro: "Subscribe me."
-    # icon: "fa fa-user"
+  - title: コード
+    url: downloads/code
+    intro: "All download codes here."
 
 links:
-  - title: Freemind
-    url: https://github.com/wzpan/hexo-theme-freemind
-    intro: "Freemind's Github repository."
-    icon: "fa fa-github"
-  - title: BOOTSTRA.386
-    url: https://github.com/kristopolous/BOOTSTRA.386
-    intro: "BOOTSTRA.386's Github repository."
-    icon: "fa fa-github"
-  - title: Freemind.386
-    url: https://github.com/blackshow/hexo-theme-freemind.386
-    intro: "Freemind.386's Github repository."
-    icon: "fa fa-github"
+  - title: Java面试指南
+    url: https://www.yuque.com/itwanger/gykdzg
+    intro: "svao"
+    # icon: "fal fa-book-open"
+  - title: Lite aliyun server
+    url: https://swasnext.console.aliyun.com/servers/ap-northeast-1
+    intro: "阿里云轻量服务器"
+    # icon: "fa fa-github"
+  - title: 习字丛林
+    url: https://www.edclub.com/sportal/
+    intro: "休闲，提升打字熟练度和双手协调度的好去处。"
+    # icon: "fa fa-github"
   - title: "My Github"
-    url: http://www.github.com/blackshow
+    url: https://github.com/uncleTacitus
     intro: "My Github account."
-    icon: "fa fa-github"
-  # - title: "My LinkedIn"
-  #   url: http://www.linkedin.com/in/xxx
-  #   intro: "My Linkin account."
-  #   icon: "fa fa-linkedin"
+    # icon: "fa fa-github"
 
 widgets:
 - search
@@ -57,7 +48,7 @@ widgets:
 
 rss: 
 fancybox: true
-favicon: favicon.png
+favicon: sakura.jpg
 duoshuo_shortname:
 
 
